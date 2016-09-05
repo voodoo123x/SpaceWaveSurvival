@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/Content/space.png</File>
+    <File>/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/Content/Score.spritefont</File>
+    <File>/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/Content/PlayerSpaceShip.png</File>
+    <File>/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/Content/beams.png</File>
+    <File>/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/Content/EnemyShips.PNG</File>
+    <File>/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/Content/explosion.png</File>
+  </SourceFiles>
+</SourceFileCollection>

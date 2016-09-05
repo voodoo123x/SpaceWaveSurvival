@@ -1,0 +1,16 @@
+/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/obj/x86/Debug/SpaceShipScroller.Icon.ico
+/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/bin/Debug/OpenTK.dll.config
+/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/bin/Debug/Content/EnemyShips.xnb
+/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/bin/Debug/Content/PlayerSpaceShip.xnb
+/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/bin/Debug/Content/Score.xnb
+/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/bin/Debug/Content/beams.xnb
+/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/bin/Debug/Content/explosion.xnb
+/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/bin/Debug/Content/space.xnb
+/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/bin/Debug/SpaceShipScroller.exe.mdb
+/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/bin/Debug/SpaceShipScroller.exe
+/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/obj/x86/Debug/SpaceShipScroller.exe
+/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/obj/x86/Debug/SpaceShipScroller.exe.mdb
+/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/bin/Debug/MonoGame.Framework.dll
+/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/bin/Debug/OpenTK.dll
+/home/voodoo123/Programming/MonoGame/SpaceShipScroller/SpaceShipScroller/bin/Debug/NVorbis.dll

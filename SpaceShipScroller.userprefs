@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="SpaceShipScroller/SpaceShipScroller.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpaceShipScroller/Levels/IGameLevel.cs">
+    <Files>
+      <File FileName="SpaceShipScroller/Game1.cs" Line="133" Column="28" />
+      <File FileName="SpaceShipScroller/Sprites/EnemyDroneSprite.cs" Line="29" Column="25" />
+      <File FileName="SpaceShipScroller/Sprites/ExplosionSprite.cs" Line="25" Column="55" />
+      <File FileName="SpaceShipScroller/Sprites/Interfaces/IEnemySprite.cs" Line="13" Column="34" />
+      <File FileName="SpaceShipScroller/Sprites/Projectiles/StandardLaserSprite.cs" Line="38" Column="34" />
+      <File FileName="SpaceShipScroller/Levels/LevelSandbox.cs" Line="6" Column="18" />
+      <File FileName="SpaceShipScroller/Levels/IGameLevel.cs" Line="8" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
